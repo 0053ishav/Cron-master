@@ -17,11 +17,11 @@ export const metadata: Metadata = {
   title: "Cron Master | Generate Cron Expressions in Seconds",
   description: "Free cron expression generator for developers. Stop guessing and generate precise schedules instantly.",
   keywords: ["cron", "cron job", "cron expression", "schedule", "developer tools", "automation"],
-  metadataBase: new URL("https://cronmaster.ishav.space"),
+  metadataBase: new URL("https://cron-master.ishav.space"),
   openGraph: {
     title: "Cron Master | Generate Cron Expressions in Seconds",
     description: "Free cron expression generator for developers. Stop guessing and generate precise schedules instantly.",
-    url: "https://cronmaster.ishav.space",
+    url: "https://cron-master.ishav.space",
     siteName: "Cron Master",
     images: [
       {
