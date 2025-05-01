@@ -154,9 +154,9 @@ export class CronParser {
     const parts = expression.split(" ")
     const minute = parts[0]
     const hour = parts[1]
-    const dayOfMonth = parts[2]
-    const month = parts[3]
-    const dayOfWeek = parts[4]
+    // const dayOfMonth = parts[2]
+    // const month = parts[3]
+    // const dayOfWeek = parts[4]
 
     // This is a simplified implementation
     // In a real app, you would use a proper cron parser library
